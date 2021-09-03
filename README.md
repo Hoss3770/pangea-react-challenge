@@ -69,7 +69,7 @@ will return second page of the results for the query `بسم الله`
 The API returns a json object
 ```json
 {
-  "data": [],
+  "data": [...],
   "count": 148757
  } 
 ```
