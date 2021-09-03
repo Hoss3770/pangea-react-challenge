@@ -70,7 +70,7 @@ The API returns a json object
 ```json
 {
   "data": [],
-  "count"
+  "count": 148757
  } 
 ```
 
